@@ -1,7 +1,8 @@
 226# P25Hosts.txt
 #
 # The format of this file is the number of the Talk Group followed by the host name or address and port
-#
+# 31611 XPR Pinoy P25 Network
+31611 144.202.119.249  41000
 
 # 6 XLX045E P25 <-> DMR/DSTAR/YSF/NXDN
 6	70.44.20.24	41000
